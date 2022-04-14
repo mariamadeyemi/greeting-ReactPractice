@@ -1,0 +1,11 @@
+.heading {
+  color: red;
+  font-size: 2rem;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+.food-img{
+  width: 200px;
+  height: 200px;
+}
